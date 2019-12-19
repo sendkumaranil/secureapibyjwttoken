@@ -26,3 +26,12 @@ Demo project for Secure Restful api using spring boot security and JWT token
 <h4>Step-3: Run the post endpoint for save task and pass the authorization token to the header </h4>
 
 ![alt tag](https://github.com/sendkumaranil/secureapibyjwttoken/blob/develop/addtask.png)
+
+<h4>Step-3: Run the post endpoint for view task and pass the authorization token to the header </h4>
+
+![alt tag](https://github.com/sendkumaranil/secureapibyjwttoken/blob/develop/viewtask.png)
+
+<h4> Authorization JWT Token: </h4>
+<p>
+      eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmlsa3VtYXIiLCJleHAiOjE1Nzc2NDY2Mzd9.LwCsKZh3nN2JdqnRQUmLZTfG-         95BsBZ7HA3URAyPQ4L7VO13b_7tLAM78pW7BKkzXmuvTjwTMon-H-UNtKXrDg
+ </p>
