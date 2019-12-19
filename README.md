@@ -14,5 +14,6 @@ Demo project for Secure Restful api using spring boot security and JWT token
 # Test the api on the postman
 
 <h4>Step-1: Run the endpoint for signup with username and password:</h4>
-![alt tag](https://github.com/sendkumaranil/secureapibyjwttoken/blob/develop/signup.png)
+
+  ![alt tag] (https://github.com/sendkumaranil/secureapibyjwttoken/blob/develop/signup.png)
 
